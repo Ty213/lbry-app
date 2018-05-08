@@ -16,7 +16,6 @@ import SubscribeButton from 'component/subscribeButton';
 import Page from 'component/page';
 import player from 'render-media';
 import * as settings from 'constants/settings';
-import * as modals from 'constants/modal_types';
 
 type Props = {
   claim: {
